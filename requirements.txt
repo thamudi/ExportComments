@@ -1,0 +1,12 @@
+#ExportCommentsAPI
+
+#Installing the ExportComments endpoint from the official github https://github.com/exportcomments/exportcomments-python
+git+https://github.com/exportcomments/exportcomments-python.git
+
+numpy
+requests
+os
+time
+openpyxl
+
+
